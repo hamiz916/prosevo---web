@@ -22,8 +22,8 @@ border-radius: 10px;
 display: flex;
 justify-content: space-between;
 align-items: center;
-position: sticky;
-top: 5px;
+position: fixed;
+top: 0;
 font-family: "Bricolage Grotesque", sans-serif;
 
 
